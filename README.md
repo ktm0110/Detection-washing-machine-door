@@ -1,3 +1,5 @@
+A program that checks the operation of the washing machine by detecting the door status
+
 # ComputingThinking
 Cultivating Computational Thinking
 컴퓨팅사고력기르기-문제해결과정5단계
