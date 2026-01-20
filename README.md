@@ -5,6 +5,8 @@
 세탁기 문 열림/닫힘 상태를 **이미지 기반 딥러닝 모델(VGG16)** 로 예측하여
 세탁기 동작 여부를 판단하는 프로젝트입니다.
 
+<img width="515" height="322" alt="image" src="https://github.com/user-attachments/assets/1bba9de8-8d61-4c88-8db1-d8928ed4b83a" />
+
 ---
 
 ## Course Information
@@ -35,7 +37,7 @@
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 
 * **Language**: Python
 * **Deep Learning**: TensorFlow / Keras
@@ -48,6 +50,8 @@
 ## Project Progress
 
 ### Project 1 – Initial Version
+
+<img width="1725" height="488" alt="image" src="https://github.com/user-attachments/assets/513eb233-3f19-45de-ab02-7ad2bfe76a1d" />
 
 **VGG16 기반 세탁기 문 열림 예측 (초기 버전)**
 
@@ -62,6 +66,8 @@
 ---
 
 ### Project 2 – Improved Training Pipeline
+
+<img width="923" height="345" alt="image" src="https://github.com/user-attachments/assets/f32f608d-cd78-4b09-9ad4-35455b329f59" />
 
 **Project 1 업데이트 버전**
 
@@ -82,6 +88,8 @@
 ---
 
 ### Project 3 – Dataset Expansion
+
+<img width="1188" height="516" alt="image" src="https://github.com/user-attachments/assets/cd8dcda3-8999-448a-9769-e682cae01763" />
 
 **Project 2 업데이트 버전**
 
