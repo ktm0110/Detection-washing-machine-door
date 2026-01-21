@@ -3,7 +3,7 @@
 > **A program that checks the operation of a washing machine by detecting the door status using deep learning**
 
 세탁기 문 열림/닫힘 상태를 **이미지 기반 딥러닝 모델(VGG16)** 로 예측하여
-세탁기 동작 여부를 판단하는 프로젝트입니다.
+세탁기 동작 여부를 판단하는 프로젝트이다.
 
 <img width="515" height="322" alt="image" src="https://github.com/user-attachments/assets/1bba9de8-8d61-4c88-8db1-d8928ed4b83a" />
 
@@ -19,7 +19,7 @@
 
 ## Problem-Solving Process (Computational Thinking)
 
-본 프로젝트는 **컴퓨팅 사고력 문제 해결 5단계**에 따라 진행되었습니다.
+본 프로젝트는 **컴퓨팅 사고력 문제 해결 5단계**에 따라 진행되었다.
 
 1. **요구사항 분석**
 2. **설계**
