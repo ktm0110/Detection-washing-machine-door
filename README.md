@@ -15,6 +15,9 @@
 * **Subject**: Cultivating Computational Thinking
 * **Topic**: 문제 해결 과정 5단계 적용 프로젝트
 
+[![Video Label](http://img.youtube.com/vi/SNUP8PfikIk/0.jpg)](https://youtu.be/SNUP8PfikIk)
+click to watch video
+
 ---
 
 ## Problem-Solving Process (Computational Thinking)
